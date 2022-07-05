@@ -1,8 +1,9 @@
 # dockerized-turkish-sentiment-analyzer-fatapi-service
 
-For running app:
+For running app;
 
-Link to install docker [installation of Docker](https://docs.docker.com/engine/install/).
+Link to install docker:
+<a href="https://docs.docker.com/engine/install/" target="_blank">installation of Docker</a>
 
 ```sh
 $ sudo docker build -t test .
