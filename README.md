@@ -1,4 +1,4 @@
-# dockerized-turkish-sentiment-analyzer-fatapi-service
+# dockerized-turkish-sentiment-analyzer-fastapi-service
 
 For running app;
 
